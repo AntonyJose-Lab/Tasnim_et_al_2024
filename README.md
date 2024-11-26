@@ -7,4 +7,4 @@ Samiha Tasnim<sup>1</sup>, Amber Liu<sup>1</sup>, and Antony M. Jose<sup>1,*</su
 
 Email:  amjose@umd.edu 
 
-This paper develops a new assay for examining the behavior of wild-type <i>C. elegans</i> in response to odorant exposure. The datasets acquired (Supplemental Dataset 1.xlsx) and the R codes used for plotting the data (TasnimLiuJose_commentedcode_d2.R) are included here. 
+This paper develops a new assay for examining the behavior of wild-type <i>C. elegans</i> in response to odorant exposure. The datasets acquired (Supplemental Dataset 1.xlsx), the R codes used for plotting the data (TasnimLiuJose_commentedcode_d2.R), and example data for use with the code (Example_data.zip) are included here. 
