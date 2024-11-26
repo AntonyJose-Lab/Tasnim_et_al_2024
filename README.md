@@ -1,4 +1,4 @@
-# Reliable odorant sensing but variable associative learning in <i>C. elegans</i>.
+# Reliable odorant sensing but variable associative learning in <i>C. elegans</i>
 Samiha Tasnim<sup>1</sup>, Amber Liu<sup>1</sup>, and Antony M. Jose<sup>1,*</sup> 
 
 <sup>1</sup>Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, USA.
